@@ -3,7 +3,7 @@
 The "Product Management System Mini Project" is a feature-packed React application that showcases a range of advanced functionalities and cutting-edge user experience design. It leverages various React tools and concepts to provide an impressive and comprehensive solution for managing products.
 
 Key features and highlights include:
-# React Functionality:
+## React Functionality:
 The project incorporates essential React libraries and concepts, such as **react-router-dom** for seamless navigation, **Context API** for efficient state management, **React.Portal** for creating modal popups, and **styled-components** for robust and flexible styling.
 
 # User Authentication: 
