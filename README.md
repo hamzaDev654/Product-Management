@@ -20,3 +20,14 @@ The application employs custom form validation without relying on third-party li
 
 ### Custom Hooks: 
 To optimize code and ensure reusability, custom hooks are implemented, which simplifies complex logic and improves maintainability.
+
+### Integration with FakeStoreAPI: 
+The project seamlessly connects to the FakeStoreAPI, allowing users to manage and display a wide range of products. This integration ensures real-time data updates and dynamic product management.
+
+### Search Functionality: 
+Users can easily search for specific products by name or keyword. The search feature provides a quick and convenient way to locate items within the product inventory.
+
+### Category-based Filtering: 
+Users can filter products by category, making it simple to narrow down their search and find products that match their preferences or needs.
+
+These features make the "Product Management System Mini Project" a powerful tool for efficiently managing and exploring a diverse product catalog. Users can quickly find, view, and organize products based on their preferences, creating a more user-centric and engaging experience.
