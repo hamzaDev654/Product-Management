@@ -1,0 +1,99 @@
+.MainIndex {
+  /* display: flex;
+  flex-direction: column;
+  margin: 4px auto;
+  align-items: center; */
+  padding: 1rem;
+}
+.productContainer {
+  padding: 1rem;
+  border-radius: 0%;
+}
+.ProductTable {
+  display: flex;
+  flex-direction: column;
+  flex: end;
+  gap: 1rem;
+  padding: 1rem;
+  position: relative;
+}
+
+ table {
+  border-collapse: collapse;
+  width: 100%;
+  padding: 1rem;
+}
+ td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.ProductTable tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.ProductTable tr:hover {
+  background-color: #ddd;
+}
+
+ th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04aa6d;
+  color: white;
+}
+
+td button {
+  cursor: pointer;
+}
+.actionsContainer {
+  display: flex;
+  padding: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h2 {
+  text-align: center;
+}
+.ProductCategory {
+  width: 50%;
+}
+.SearchBox {
+  display: flex;
+  gap: 0.5rem;
+  width: 80%;
+  align-items: baseline;
+}
+.SearchBox input {
+  width: 80%;
+  padding: 0.7rem;
+  outline: none;
+  font: inherit;
+}
+
+.dropdawn {
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.dropdawn select {
+  padding: 0.7rem;
+  width: 100%;
+  font: inherit;
+  text-align: center;
+}
+
+
+
+.prodContainer,
+.prodContainer table {
+  margin: auto;
+  text-align: center;
+}
+.imgContainer img {
+  width: 80px;
+}

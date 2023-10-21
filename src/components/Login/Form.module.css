@@ -1,0 +1,43 @@
+.form {
+  width: 90%;
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.actions {
+  text-align: center;
+  padding: 0.7rem;
+}
+
+.msg p {
+  color: green;
+  cursor: inherit;
+}
+
+.msg strong {
+  color: black;
+}
+.actions ~ a {
+  position: relative;
+}
+.redirect {
+  position: absolute;
+  width: max-content;
+  margin-left: 25rem;
+  margin-top: -3rem;
+}
+
+.eysIcon {
+  position: absolute;
+  margin-left: 34rem;
+  margin-top: -172px;
+  cursor: pointer;
+}
+
+.eysIconLogin {
+  position: absolute;
+  margin-left: 34rem;
+  margin-top: -111px;
+  cursor: pointer;
+}
